@@ -1,0 +1,23 @@
+{
+    "website": "http://ubit.cc/",
+    "published_on": "2018-10-26",
+    "links": {
+        "telegram": "https://t.me",
+        "twitter": "https://twitter.com",
+        "github": "https://github.com/",
+        "facebook": "https://www.facebook.com"
+    },
+    "overview": {
+        "en": "A digital asset trading platform based on community all win.",
+        "zh": "基于社区共赢的数字资产交易平台。"
+    },
+    "symbol": "UBIT.CC",
+    "state": "FLOAT",
+    "initial_price": {
+        "ETH": "0.000125 ETH",
+        "USD": "0.05 USD",
+    },
+    "whitepaper": "https://github.com/",
+    "address": "0x2c71bf3e3b30e23f1d70d552f95fb0ec9db23132",
+    "email": "ubit_cc@ubit.cc"
+}
